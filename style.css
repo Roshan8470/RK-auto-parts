@@ -1,0 +1,133 @@
+.brands{
+    text-align: center;
+}
+header{
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/544542/pexels-photo-544542.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    margin-left:20px ;
+    margin-right: 20px;
+}
+#rk{
+    background: linear-gradient(132deg, rgb(0, 255, 157) 0.00%, rgb(227, 43, 175) 100.00%);
+    border-radius: 15px;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+}
+nav{
+    background: linear-gradient(132deg, rgb(1, 96, 105) 0.00%, rgb(0, 72, 95) 100.00%);
+    font-size: 22px;
+    border-radius: 10px;
+}
+nav:hover{
+    background: linear-gradient(132deg, rgb(115, 93, 142) 0.00%, rgb(58, 33, 86) 100.00%);
+}
+body{
+    background-image: url(https://images.pexels.com/photos/11140046/pexels-photo-11140046.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.brands{
+    background-image: url(https://images.pexels.com/photos/751378/pexels-photo-751378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+#car{
+    color: aliceblue;
+    font-size: 45px;
+    text-align: center;
+    background: linear-gradient(156deg, rgb(2, 106, 122) 0.00%, rgb(242, 78, 163) 67.57%);
+    border-radius: 25px;
+    margin-left:600px ;
+    margin-right: 600px;
+    font-family: 'Moon Dance', cursive;
+
+}
+#car:hover{
+    background: linear-gradient(62deg, rgb(21, 213, 235) 0.00%, rgb(255, 0, 191) 100.00%);
+}
+#brand{
+    color: aliceblue;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Seymour One', sans-serif;
+    background: linear-gradient(166deg, rgb(125, 199, 144) 0.00%, rgb(11, 59, 23) 98.30%);
+    border-radius: 25px;
+    margin-left:600px ;
+    margin-right: 600px;
+}
+#copyright{
+    background: linear-gradient(62deg, rgb(21, 213, 235) 0.00%, rgb(255, 0, 191) 100.00%);
+    margin-block: 36px;
+    font-size: 25px;
+    font-family: 'Moon Dance', cursive;
+    text-align: center;
+    color: white
+}
+#map{
+    padding-top: 20px;
+    background-image: url(https://images.pexels.com/photos/592753/pexels-photo-592753.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#cars{
+    background-image: url(https://images.pexels.com/photos/3457780/pexels-photo-3457780.jpeg?auto=compress&cs=tinysrgb&w=600);
+
+}
+#bike{
+    background-image: url(https://images.pexels.com/photos/1715184/pexels-photo-1715184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    
+}
+#welcome{
+    text-align: center;
+    background-image: url(https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#roshan{
+    border-radius: 15px;
+}
+#rk1{
+    text-align: left;
+    font-size: 15px;
+    color: aliceblue;
+}
+.footers{
+    background-color: #374957;
+    color: aliceblue;
+}
+/* table{
+    border-collapse: separate;
+    border-spacing: 0 15px;
+} */
+td{
+    padding: 60px;
+}
+#r{
+    font-family: cursive;
+    background: linear-gradient(132deg, rgb(34, 181, 254) 0.00%, rgb(255, 186, 214) 100.00%);
+    border-radius: 15px;
+}
+#founder{
+    font-size: 35px;
+    font-family: 'Moon Dance', cursive;
+    font-weight: 500px;
+    background: linear-gradient(54deg, rgb(210, 255, 31) 0.00%, rgb(123, 194, 85) 45.00%, rgb(227, 144, 43) 100.00%);
+margin-left: 450px;
+margin-right: 450px;
+border-radius: 10px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
